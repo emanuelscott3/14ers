@@ -13,8 +13,8 @@
 
 1. List Item 1
 1. List Item 2
-  * List Item 2A
-  * List Item 2B
+  1. List Item 2A
+  1. List Item 2B
 1. List Item 3
 
 
